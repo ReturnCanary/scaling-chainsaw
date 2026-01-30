@@ -6,4 +6,50 @@ Music ideas:
     Slime rancher OST - Ranch
 
 Mini avatars ideas: On a footer line of the page. 
-Following characters: MrPupty, PeterXD, Shadow, & Owen
+Following characters: MrPupty, PeterXD??
+
+/* CSS HEX */
+--vintage-grape: #4e4c67ff;
+--light-blue: #9ac2c9ff;
+--tomato: #fe4a49ff;
+--olive: #6f732fff;
+--golden-pollen: #ffcb47ff;
+
+/* CSS HSL */
+--vintage-grape: hsla(244, 15%, 35%, 1);
+--light-blue: hsla(189, 30%, 70%, 1);
+--tomato: hsla(0, 99%, 64%, 1);
+--olive: hsla(64, 42%, 32%, 1);
+--golden-pollen: hsla(43, 100%, 64%, 1);
+
+/* SCSS HEX */
+$vintage-grape: #4e4c67ff;
+$light-blue: #9ac2c9ff;
+$tomato: #fe4a49ff;
+$olive: #6f732fff;
+$golden-pollen: #ffcb47ff;
+
+/* SCSS HSL */
+$vintage-grape: hsla(244, 15%, 35%, 1);
+$light-blue: hsla(189, 30%, 70%, 1);
+$tomato: hsla(0, 99%, 64%, 1);
+$olive: hsla(64, 42%, 32%, 1);
+$golden-pollen: hsla(43, 100%, 64%, 1);
+
+/* SCSS RGB */
+$vintage-grape: rgba(78, 76, 103, 1);
+$light-blue: rgba(154, 194, 201, 1);
+$tomato: rgba(254, 74, 73, 1);
+$olive: rgba(111, 115, 47, 1);
+$golden-pollen: rgba(255, 203, 71, 1);
+
+/* SCSS Gradient */
+$gradient-top: linear-gradient(0deg, #4e4c67ff, #9ac2c9ff, #fe4a49ff, #6f732fff, #ffcb47ff);
+$gradient-right: linear-gradient(90deg, #4e4c67ff, #9ac2c9ff, #fe4a49ff, #6f732fff, #ffcb47ff);
+$gradient-bottom: linear-gradient(180deg, #4e4c67ff, #9ac2c9ff, #fe4a49ff, #6f732fff, #ffcb47ff);
+$gradient-left: linear-gradient(270deg, #4e4c67ff, #9ac2c9ff, #fe4a49ff, #6f732fff, #ffcb47ff);
+$gradient-top-right: linear-gradient(45deg, #4e4c67ff, #9ac2c9ff, #fe4a49ff, #6f732fff, #ffcb47ff);
+$gradient-bottom-right: linear-gradient(135deg, #4e4c67ff, #9ac2c9ff, #fe4a49ff, #6f732fff, #ffcb47ff);
+$gradient-top-left: linear-gradient(225deg, #4e4c67ff, #9ac2c9ff, #fe4a49ff, #6f732fff, #ffcb47ff);
+$gradient-bottom-left: linear-gradient(315deg, #4e4c67ff, #9ac2c9ff, #fe4a49ff, #6f732fff, #ffcb47ff);
+$gradient-radial: radial-gradient(#4e4c67ff, #9ac2c9ff, #fe4a49ff, #6f732fff, #ffcb47ff);
