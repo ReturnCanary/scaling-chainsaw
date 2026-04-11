@@ -1,3 +1,14 @@
+header {
+    color: #fe4a49ff;
+    text-align: center;
+    padding: 11px;
+}
+
 body {
     background-color: #9ac2c9ff;
+}
+
+nav {
+    display: flex;
+    list-style: none;
 }
